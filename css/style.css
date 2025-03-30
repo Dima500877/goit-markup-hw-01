@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto';
+}
+ul{
+    list-style-type: none;
+}
+.section1{
+    width: 1440px;
+    height: 600px;
+    top: 72px;
+    background-color: #2E2F42;
+}
+.section1 .title1{
+    color: #fff;
+}
+.section3{
+    background-color: #F4F4FD;
+}
+.footer{
+    background-color: #2E2F42;
+}
+.nav-logo,
+.footer-logo{
+    color: #4D5AE5;
+}
+.logo1{
+    color: #2E2F42;
+}
+.logo2{
+    color: #fff;
+}
+.title-footer{
+    color: #fff;
+}
+.button{
+    width: 169px;
+    height: 56px;
+    background-color: #4D5AE5;
+}
+.text-button{
+    color: #fff;
+}
