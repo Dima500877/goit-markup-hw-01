@@ -30,8 +30,7 @@ ul{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.button .text-button{
-    font-family: 'Roboto',sans-serif;
+.button {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -42,6 +41,11 @@ ul{
 }
 .text-button{
     color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 .footer-logo .logo-title,
 .nav-logo .logo1{ 
