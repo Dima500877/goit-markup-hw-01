@@ -48,7 +48,7 @@ ul{
     letter-spacing: 0.04em;
 }
 .footer-logo .logo-title,
-.nav-logo .logo1{ 
+.nav-logo .logo-first{ 
     font-family: "Raleway",sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -67,7 +67,7 @@ ul{
             text-transform: uppercase;
 }
 
-.logo1 {
+.logo-first {
     color: #2E2F42;
 }
 
@@ -133,4 +133,9 @@ ul{
 .first-featur{
     background-color: #FFFFFF;
 }
-
+.studio{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
