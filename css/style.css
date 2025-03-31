@@ -101,6 +101,18 @@ ul{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+
+}
+.page-features{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.name-feature{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     
 }
 
